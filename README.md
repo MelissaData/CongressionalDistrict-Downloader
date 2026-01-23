@@ -2,7 +2,7 @@
 
 This is the script that downloads Congressional District for you to use.
 
-For the latest Melissa Congressional District release notes, please visit:
+To view the latest Melissa Congressional District release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/reference-data/congressional-district/
 
 
